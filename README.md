@@ -1,6 +1,8 @@
 # learning_python
-# Using TheNewBoston's Python playlist to learn Python 3
+# Using udemy's Complete Python Bootcamp
 
-# https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
+# https://www.udemy.com/complete-python-bootcamp
 
 # I do not claim to own any of the scripts or content
+
+# I am simply using this Github to store my training scripts 
